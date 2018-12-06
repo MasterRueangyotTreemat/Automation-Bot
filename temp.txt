@@ -1,0 +1,5 @@
+import pyautogui as pyautogui
+pg.moveTo(,)
+pg.moveTo(,)
+pg.moveTo(,)
+pg.moveTo(,)
